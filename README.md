@@ -104,9 +104,6 @@ I'm a simple and driven human being with a mission to leave this world a little 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geethikaisuru&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/geethikaisuru)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geethikaisuru&layout=compact&theme=dark&hide_border=true)](https://github.com/geethikaisuru)
-
-*A human being at heart that put Humanity first.*
+*A human being at heart, who put Humanity First! 💖*
 
 </div>
