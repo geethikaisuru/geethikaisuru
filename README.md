@@ -1,6 +1,6 @@
 <div align="center">
 
-# Geethika Isuru Sampath
+# Geethika Isuru
 
 *"Disciplines Works Miracles"*
 
