@@ -90,9 +90,9 @@ I'm a simple and driven human being with a mission to leave this world a little 
 
 | Certificate | Issuer | Year | Credential |
 |-------------|--------|------|------------|
+| **Machine Learning Engineering for Production (MLOps)** | DeepLearning.ai | 2024 | [View ↗](https://coursera.org/verify/specialization/6DAZ5D67ZRPK) |
 | **Deep Learning Specialization** | DeepLearning.ai | 2023 | [View ↗](https://coursera.org/verify/specialization/M6X5QHSKFW2E) |
 | **Machine Learning Specialization** | DeepLearning.ai | 2023 | [View ↗](https://coursera.org/verify/specialization/B4CL2GCZ3UWS) |
-| **Machine Learning Engineering for Production (MLOps)** | DeepLearning.ai | 2024 | [View ↗](https://coursera.org/verify/specialization/6DAZ5D67ZRPK) |
 | **TensorFlow Developer Professional Certificate** | DeepLearning.ai | 2023 | [View ↗](https://www.coursera.org/account/accomplishments/professional-cert/GH8BHEYDYRA4) |
 | **Google Data Analytics Professional Certificate** | Google | 2023 | [View ↗](https://www.coursera.org/account/accomplishments/specialization/certificate/XBVLYF42H3F5) |
 | **Entrepreneurship Specialization** | Wharton School, UPenn | 2023 | [View ↗](https://www.coursera.org/account/accomplishments/specialization/certificate/XBVLYF42H3F5) |
@@ -104,6 +104,9 @@ I'm a simple and driven human being with a mission to leave this world a little 
 
 <div align="center">
 
-*A human being at heart, who put Humanity First! 💖*
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geethikaisuru&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/geethikaisuru)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geethikaisuru&layout=compact&theme=dark&hide_border=true)](https://github.com/geethikaisuru)
+
+*A human being at heart that put Humanity first.*
 
 </div>
