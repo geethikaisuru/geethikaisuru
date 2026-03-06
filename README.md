@@ -1,6 +1,6 @@
 <div align="center">
 
-# Geethika Isuru
+# Geethika Isuru Sampath
 
 *"Disciplines Works Miracles"*
 
@@ -57,16 +57,48 @@ I'm a simple and driven human being with a mission to leave this world a little 
 
 ---
 
+## 🎓 Education
+
+### University of Sri Jayewardenepura &nbsp; <sub>2023 – 2026</sub>
+**BSc in Physics & ICT**, Faculty of Applied Sciences
+
+**Leadership Roles**
+- Vice Chairperson of IEEE USJ Student Branch (2023–2024)
+- Founder & University Lead of IT LEGACY (2024–2025)
+- Chief Organizer of Road to Legacy 1.0 (2024)
+- Member of oGX B2B of AIESEC USJ (2024)
+
+---
+
+### Taxila Central College &nbsp; <sub>2012 – 2020</sub>
+**GCE A/L Examination:** B.C.C. with a 1.039z in Physics, Combined Mathematics, and ICT
+
+**Leadership & Extracurricular Activities**
+- Senior Prefect at Taxila Prefects Board
+- Member of Technical Staff (Sound Engineering/Lighting/IT) at Taxila Radio and Technical Society
+- President and Photographer at Taxila Photographic Arts Society
+- Executive at Astronomical Society
+- Executive at Media Club
+- Member of Innovations Society
+- Founding President of E-Club
+- President of Leo Club of Taxila Central College
+- Camera Director of the First Short Movie of Taxila Central College
+
+---
+
 ## 📜 Certifications
 
-[![Deep Learning](https://img.shields.io/badge/Deep_Learning_Specialization-DeepLearning.ai-blue?style=flat-square)](https://deeplearning.ai)
-[![ML](https://img.shields.io/badge/Machine_Learning_Specialization-DeepLearning.ai-blue?style=flat-square)](https://deeplearning.ai)
-[![MLOps](https://img.shields.io/badge/MLOps_Specialization-DeepLearning.ai-blue?style=flat-square)](https://deeplearning.ai)
-[![TF](https://img.shields.io/badge/TensorFlow_Developer_Certificate-DeepLearning.ai-orange?style=flat-square)](https://deeplearning.ai)
-[![Google DA](https://img.shields.io/badge/Data_Analytics_Certificate-Google-4285F4?style=flat-square&logo=google)](https://google.com)
-[![Wharton](https://img.shields.io/badge/Entrepreneurship_Specialization-Wharton_UPenn-990000?style=flat-square)](https://wharton.upenn.edu)
-[![Marketing](https://img.shields.io/badge/Digital_Marketing-Google-4285F4?style=flat-square&logo=google)](https://google.com)
-[![Cisco](https://img.shields.io/badge/IT_Essentials-Cisco-1BA0D7?style=flat-square&logo=cisco)](https://cisco.com)
+| Certificate | Issuer | Year | Credential |
+|-------------|--------|------|------------|
+| **Deep Learning Specialization** | DeepLearning.ai | 2023 | [View ↗](https://coursera.org/verify/specialization/M6X5QHSKFW2E) |
+| **Machine Learning Specialization** | DeepLearning.ai | 2023 | [View ↗](https://coursera.org/verify/specialization/B4CL2GCZ3UWS) |
+| **Machine Learning Engineering for Production (MLOps)** | DeepLearning.ai | 2024 | [View ↗](https://coursera.org/verify/specialization/6DAZ5D67ZRPK) |
+| **TensorFlow Developer Professional Certificate** | DeepLearning.ai | 2023 | [View ↗](https://www.coursera.org/account/accomplishments/professional-cert/GH8BHEYDYRA4) |
+| **Google Data Analytics Professional Certificate** | Google | 2023 | [View ↗](https://www.coursera.org/account/accomplishments/specialization/certificate/XBVLYF42H3F5) |
+| **Entrepreneurship Specialization** | Wharton School, UPenn | 2023 | [View ↗](https://www.coursera.org/account/accomplishments/specialization/certificate/XBVLYF42H3F5) |
+| **Successful Negotiation: Essential Strategies and Skills** | University of Michigan | 2022 | [View ↗](https://www.coursera.org/account/accomplishments/certificate/34RVMRBFHWQB) |
+| **Fundamentals of Digital Marketing** | Google | 2020 | [View ↗](https://learndigital.withgoogle.com/link/1qsdpcedm9s) |
+| **Cisco IT Essentials** | Cisco Networking Academy | 2016 | [View ↗](https://www.linkedin.com/in/geethikaisuru/details/certifications/) |
 
 ---
 
@@ -75,6 +107,6 @@ I'm a simple and driven human being with a mission to leave this world a little 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geethikaisuru&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/geethikaisuru)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geethikaisuru&layout=compact&theme=dark&hide_border=true)](https://github.com/geethikaisuru)
 
-*Building things that matter. One commit at a time.*
+*A human being at heart that put Humanity first.*
 
 </div>
