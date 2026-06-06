@@ -27,10 +27,10 @@ I'm a simple and driven human being with a mission to leave this world a little 
 | Project | Description |
 |---------|-------------|
 | 🤖 **[Mahasen AI](https://github.com/geethikaisuru)** | Intelligent Customer Support & Order Management System for Social Media Platforms. B2B. |
-| 🌊 **[theFlood](https://github.com/geethikaisuru/theFlood)** *(Private)* | Generate 1000s of short videos in seconds. Automated pipeline that generates viral hooks and renders them on top of video templates. |
-| 📊 **[StoryLens](https://github.com/geethikaisuru/StoryLens)** | Predicts YouTube Shorts virality. Give a YT Short URL or upload a video — score + 52 weighted features. Predict · Explain · Recommend. Final-year project (A+). |
+| 🌊 **[theFlood](https://github.com/geethikaisuru/theFlood)** | Generate 1000s of short videos in seconds. Automated pipeline that generates viral hooks and renders them on top of video templates. [Private] |
+| 📊 **[StoryLens](https://github.com/geethikaisuru/StoryLens)** | Predicts YouTube Shorts virality. Give a YT Short URL or upload a video — score + 52 weighted features. Predict · Explain · Recommend. Final-year project (got A+ haha). |
 | 🧬 **[Podisen AI](https://github.com/geethikaisuru/podisen-whatsapp-clone)** | Clone yourself from your WhatsApp chat history — captures your unique communication style. |
-| 🏋️ **[GYMA App](https://github.com/geethikaisuru/Gyma02)** *(Private)* | Workout rest tracker that saves users up to 40% of gym time by managing & alarming rest intervals. |
+| 🏋️ **[GYMA App](https://github.com/geethikaisuru/Gyma02)** | Workout rest tracker that saves users up to 40% of gym time by managing & alarming rest intervals. [Private] |
 | 🎙️ **[Whisper Live Locally](https://github.com/geethikaisuru)** | Real-time speech transcription using OpenAI Whisper with GPU acceleration and a Streamlit UI. |
 | 🕵️ **[No Site Business Finder — NSBF](https://github.com/geethikaisuru/business-website-classifier)** | Find businesses in any region that have no website, using Google Places API + Gemini AI. [Live ↗](https://nositebusinessfinder.streamlit.app/) |
 | 🧠 **[Intelligent Knowledge Management — Max-Lab AI](https://github.com/geethikaisuru)** | Enterprise-grade document ingestion, understanding & retrieval using advanced LLM methods. |
