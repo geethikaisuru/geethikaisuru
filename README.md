@@ -27,10 +27,12 @@ I'm a simple and driven human being with a mission to leave this world a little 
 | Project | Description |
 |---------|-------------|
 | 🤖 **[Mahasen AI](https://github.com/geethikaisuru)** | Intelligent Customer Support & Order Management System for Social Media Platforms. B2B. |
+| 🌊 **[theFlood](https://github.com/geethikaisuru/theFlood)** *(Private)* | Generate 1000s of short videos in seconds. Automated pipeline that generates viral hooks and renders them on top of video templates. |
+| 📊 **[StoryLens](https://github.com/geethikaisuru/StoryLens)** | Predicts YouTube Shorts virality. Give a YT Short URL or upload a video — score + 52 weighted features. Predict · Explain · Recommend. Final-year project (A+). |
 | 🧬 **[Podisen AI](https://github.com/geethikaisuru/podisen-whatsapp-clone)** | Clone yourself from your WhatsApp chat history — captures your unique communication style. |
-| 🏋️ **[GYMA App](https://github.com/geethikaisuru)** | Gym workout tracker that saves users up to 40% of gym time by managing rest intervals. |
+| 🏋️ **[GYMA App](https://github.com/geethikaisuru/Gyma02)** *(Private)* | Workout rest tracker that saves users up to 40% of gym time by managing & alarming rest intervals. |
 | 🎙️ **[Whisper Live Locally](https://github.com/geethikaisuru)** | Real-time speech transcription using OpenAI Whisper with GPU acceleration and a Streamlit UI. |
-| 🕵️ **[No Site Business Finder — NSBF](https://github.com/geethikaisuru/business-website-classifier)** | Find businesses in any region that have no website, using Google Places API + Gemini AI. |
+| 🕵️ **[No Site Business Finder — NSBF](https://github.com/geethikaisuru/business-website-classifier)** | Find businesses in any region that have no website, using Google Places API + Gemini AI. [Live ↗](https://nositebusinessfinder.streamlit.app/) |
 | 🧠 **[Intelligent Knowledge Management — Max-Lab AI](https://github.com/geethikaisuru)** | Enterprise-grade document ingestion, understanding & retrieval using advanced LLM methods. |
 | 📄 **[Cognita AI](https://github.com/geethikaisuru/cognita-ai)** | Generate model exam papers from your past exam PDFs using AI. Upload, select, get paper. |
 | 🎤 **[Local Voice Cloning Model](https://github.com/geethikaisuru/cognita-voice-cloning)** | Clone and fine-tune any voice using a pretrained TTS model — runs fully locally. |
@@ -40,13 +42,14 @@ I'm a simple and driven human being with a mission to leave this world a little 
 | 🔍 **[X-Simple-RAG-gemma2b](https://github.com/geethikaisuru/X-Simple-RAG-gemma2b)** | Minimal RAG implementation using Gemma 2B on Ollama + LangChain. |
 | 🎓 **[Fine Tune BERT](https://github.com/geethikaisuru/fine_tune_bert)** | Fine-tuning BERT for downstream NLP tasks. |
 | ⚡ **[Micrograd](https://github.com/geethikaisuru/micrograd)** | Neural network engine built from scratch — understand backprop at the metal level. |
-| 🔎 **[Domain Checker Pro](https://github.com/geethikaisuru/Domain-Checker)** | Check availability of thousands of .com domains simultaneously with threaded bulk scanning. |
+| 🔎 **[Domain Checker Pro](https://github.com/geethikaisuru/Domain-Checker)** | Check availability of thousands of .com domains simultaneously with threaded bulk scanning. [Live ↗](https://bulk-domain-checker.streamlit.app/) |
 | 🎰 **[Dinum Lottery Scanner](https://github.com/geethikaisuru)** | 100% vibe-coded: NLB & DLB Lottery ticket scanner via QR code. |
+| ⏱️ **[Hackathon Pitching Timer](https://hack-like-a-girl-timer.streamlit.app/)** | Big countdown timer built for the 'Hack Like a Girl' hackathon organizing committee. [Live ↗](https://hack-like-a-girl-timer.streamlit.app/) |
 | ⏱️ **[Claude Code 5hr Timer](https://github.com/geethikaisuru/claude-code-5hr-limit-timer)** | Countdown timer built specifically for Claude Code's 5-hour usage sessions. |
 | 🌐 **[Portfolio Website](https://geethikaisuru.com)** | This site — built with React + Supabase + Gemini AI with an integrated RAG assistant (GAIA). |
 | 🎓 **[IT Legacy Website](https://github.com/geethikaisuru/itlegacy)** | HTML5 website for the IT Legacy undergraduate student organization. |
 | 🎬 **[VFX Agency Website](https://github.com/geethikaisuru)** | Official site for the SL VFX Fiverr Agency — my old creative venture before committing to AI. |
-| 🔬 **[Voice & Text Research Portal](https://github.com/geethikaisuru/LDream-Research-Data-Collection-Portal)** | Multi-modal anonymous data collection for research — voice pitch-shifted to preserve privacy. |
+| 🔬 **[Voice & Text Research Portal](https://github.com/geethikaisuru/LDream-Research-Data-Collection-Portal)** | Multi-modal anonymous data collection for research — voice pitch-shifted to preserve privacy. [Live ↗](https://lucid-dreams-research-usj.streamlit.app/) |
 | 📰 **[News API Email](https://github.com/geethikaisuru/News-API-Email)** | Search any news topic and have articles delivered straight to your inbox via Streamlit. |
 | ✅ **[ToDoList Mini-Projects](https://github.com/geethikaisuru/ToDoList)** | A collection of Python mini-projects: To-Do apps, webcam processor, GUI tools, and more. |
 | 📋 **[Todo App Streamlit](https://github.com/geethikaisuru/todo-app-streamlit)** | Simple To-Do app in Streamlit — tasks saved persistently in a local file. |
