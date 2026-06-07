@@ -31,10 +31,10 @@ I'm a simple and driven human being with a mission to leave this world a little 
 | 📊 **[StoryLens](https://github.com/geethikaisuru/StoryLens)** | Predicts YouTube Shorts virality. Give a YT Short URL or upload a video — score + 52 weighted features. Predict · Explain · Recommend. Final-year project (got A+ haha). |
 | 🧬 **[Podisen AI](https://github.com/geethikaisuru/podisen-whatsapp-clone)** | Clone yourself from your WhatsApp chat history — captures your unique communication style. |
 | 🏋️ **[GYMA App](https://github.com/geethikaisuru/Gyma02)** | Workout rest tracker that saves users up to 40% of gym time by managing & alarming rest intervals. [Private] |
-| 🎙️ **[Whisper Live Locally](https://github.com/geethikaisuru)** | Real-time speech transcription using OpenAI Whisper with GPU acceleration and a Streamlit UI. |
 | 🕵️ **[No Site Business Finder — NSBF](https://github.com/geethikaisuru/business-website-classifier)** | Find businesses in any region that have no website, using Google Places API + Gemini AI. [Live ↗](https://nositebusinessfinder.streamlit.app/) |
 | 🧠 **[Intelligent Knowledge Management — Max-Lab AI](https://github.com/geethikaisuru)** | Enterprise-grade document ingestion, understanding & retrieval using advanced LLM methods. |
 | 📄 **[Cognita AI](https://github.com/geethikaisuru/cognita-ai)** | Generate model exam papers from your past exam PDFs using AI. Upload, select, get paper. |
+| 🎙️ **[Whisper Live Locally](https://github.com/geethikaisuru)** | Real-time speech transcription using OpenAI Whisper with GPU acceleration and a Streamlit UI. |
 | 🎤 **[Local Voice Cloning Model](https://github.com/geethikaisuru/cognita-voice-cloning)** | Clone and fine-tune any voice using a pretrained TTS model — runs fully locally. |
 | 🗣️ **[Multify.ai — Multi-Model AI Chat](https://github.com/geethikaisuru/multify.ai---Multi-Model-AI-ChatApplication)** | Chat with multiple AI models using text, images, audio, and PDF in one app. |
 | ✍️ **[LSTM Styled Poem Generator](https://github.com/geethikaisuru/Generate-Poems-usin-LSTM)** | LSTM model trained to generate poems in a specific writing style. |
