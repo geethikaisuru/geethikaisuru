@@ -4,20 +4,7 @@
 
 *"Disciplines Works Miracles"*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-geethikaisuru.com-black?style=for-the-badge)](https://geethikaisuru.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geethikaisuru)
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
-
-I'm a simple and driven human being with a mission to leave this world a little better than I found it. 😇
-
+Took apart my first computer at age 12, wrote the first java code at age 13, made the first money repairing neighbours computers at age 14, built a media business at age 16, bought the family's first vehicle at age 18 and now building the world's first authentic storytelller AI: [mahasen.app](https://mahasen.app)
 </div>
 
 ---
@@ -105,6 +92,18 @@ I'm a simple and driven human being with a mission to leave this world a little 
 ---
 
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-geethikaisuru.com-black?style=for-the-badge)](https://geethikaisuru.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geethikaisuru)
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geethikaisuru&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/geethikaisuru)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geethikaisuru&layout=compact&theme=dark&hide_border=true)](https://github.com/geethikaisuru)
