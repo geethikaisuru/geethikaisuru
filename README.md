@@ -27,10 +27,10 @@ I'm a simple and driven human being with a mission to leave this world a little 
 | Project | Description |
 |---------|-------------|
 | 🤖 **[Mahasen AI](https://github.com/geethikaisuru)** | Intelligent Customer Support & Order Management System for Social Media Platforms. B2B. |
-| 🌊 **[theFlood](https://github.com/geethikaisuru/theFlood)** | Generate 1000s of short videos in seconds. Automated pipeline that generates viral hooks and renders them on top of video templates. [Private] |
-| 📊 **[StoryLens](https://github.com/geethikaisuru/StoryLens)** | Predicts YouTube Shorts virality. Give a YT Short URL or upload a video — score + 52 weighted features. Predict · Explain · Recommend. Final-year project (got A+ haha). |
 | 🧬 **[Podisen AI](https://github.com/geethikaisuru/podisen-whatsapp-clone)** | Clone yourself from your WhatsApp chat history — captures your unique communication style. |
+| 📊 **[StoryLens](https://github.com/geethikaisuru/StoryLens)** | Predicts YouTube Shorts virality. Give a YT Short URL or upload a video — score + 52 weighted features. Predict · Explain · Recommend. Final-year project (got A+ haha). |
 | 🕵️ **[No Site Business Finder — NSBF](https://github.com/geethikaisuru/business-website-classifier)** | Find businesses in any region that have no website, using Google Places API + Gemini AI. [Live ↗](https://nositebusinessfinder.streamlit.app/) |
+| 🌊 **[theFlood](https://github.com/geethikaisuru/theFlood)** | Generate 1000s of short videos in seconds. Automated pipeline that generates viral hooks and renders them on top of video templates. [Private] |
 | 🧠 **[Intelligent Knowledge Management — Max-Lab AI](https://github.com/geethikaisuru)** | Enterprise-grade document ingestion, understanding & retrieval using advanced LLM methods. |
 | 🔎 **[Domain Checker Pro](https://github.com/geethikaisuru/Domain-Checker)** | Check availability of thousands of .com domains simultaneously with threaded bulk scanning. [Live ↗](https://bulk-domain-checker.streamlit.app/) |
 | 🔬 **[Voice & Text Research Portal](https://github.com/geethikaisuru/LDream-Research-Data-Collection-Portal)** | Multi-modal anonymous data collection for research — voice pitch-shifted to preserve privacy. [Live ↗](https://lucid-dreams-research-usj.streamlit.app/) |
